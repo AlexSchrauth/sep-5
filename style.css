@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family:sans-serif;
+}
+
+img{
+    widgth: 100%;
+    max-widgth: 500px;
+    border-radius: 50%;
+    margin-top:100px;
+}
